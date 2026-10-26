@@ -58,7 +58,7 @@ const styles = StyleSheet.create({
     cartao: {
         backgroundColor: '#FFFFFF',
         padding: 20,
-        borderRadius: 12
+        borderRadius: 13
     },
 
     titulo: {
